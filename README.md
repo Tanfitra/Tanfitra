@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanfitra
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and Pawn
 
 
 <!---
