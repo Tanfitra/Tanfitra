@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tanfitra
+- 👋 Hi, I’m Tanfitra. I'm twenty years old and a collage student
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning JavaScript and Pawn
 
