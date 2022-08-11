@@ -14,7 +14,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanfitra&layout=compact&hide=Pawn,SourcePawn" align="center"/></div>
 
 ## Pinned Repository
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanfitra&repo=Simple-Discord-Bot&show_owner=true"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanfitra&repo=Tanfitra&show_owner=true"</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanfitra&repo=Simple-Discord-Bot&show_owner=true"(https://github.com/Tanfitra/Simple-Discord-Bot)> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanfitra&repo=Tanfitra&show_owner=true" (https://github.com/Tanfitra/Tanfitra)></div>
 
 <!---
 Tanfitra/Tanfitra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
