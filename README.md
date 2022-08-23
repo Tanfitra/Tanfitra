@@ -6,9 +6,11 @@
 - 👋 Hi, I’m Tanfitra. I'm twenty years old and a collage student
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning anything I can learn
+- 📫 How to reach me is PM my discord (Tanfitra#5984) 
+<div align="center"><img src="https://sigcord.io/user/443746079243108363" align="center"/></div>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tanfitra&show_icons=true&count_private=true&hide_border=truee" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tanfitra&show_icons=true&count_private=true&hide_border=truee"" align="center" /></div> 
 
 ## My Languages
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanfitra&layout=compact&hide=Pawn,SourcePawn" align="center"/></div>
