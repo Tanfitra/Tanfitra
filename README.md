@@ -8,7 +8,7 @@
 
 ## 🌐 Socials:
 <a href="https://discord.com/channels/@me/443746079243108363"> <img src="https://discord.c99.nl/widget/theme-1/443746079243108363.png" alt="contact me"> <br>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adhim_t) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adhim_t) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/muhammad-arsyad-59865120a](https://www.linkedin.com/in/adhimtanfitra/))
 
 
 # 💻 Tech Stack:
