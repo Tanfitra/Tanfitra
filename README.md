@@ -16,7 +16,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tanfitra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tanfitra&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanfitra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanfitra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+[![](https://visitcount.itsvg.in/api?id=Tanfitra&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tanfitra&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
