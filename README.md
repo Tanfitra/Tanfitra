@@ -22,10 +22,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tanfitra&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
-## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/tanfitra) 
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
