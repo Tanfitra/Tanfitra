@@ -1,9 +1,15 @@
-# 💫 About Me:
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hi, I’m Tanfitra. 
-- 👨🏽‍💻 I’m currently a Information System Student at University of Amikom Purwokerto, Indonesia
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning anything I can learn
-- 📫 How to reach me is email me at [tanfitraadhim@gmail.com](mailto:tanfitraadhim@gmail.com).
+## 💫 About Me
+
+### 👋 Hi, I’m **Tanfitra**
+
+🎓 **Information Systems Graduate** from **University of Amikom Purwokerto**, Indonesia  
+💻 Passionate about **programming & web development**  
+🚀 Continuously learning and exploring **new technologies to grow as a developer**  
+🌱 Curious, adaptable, and always improving  
+
+📫 Reach me via email:  
+📧 **[tanfitraadhim@gmail.com](mailto:tanfitraadhim@gmail.com)**
+
 
 
 ## 🌐 Socials:
